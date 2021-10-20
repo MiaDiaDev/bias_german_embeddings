@@ -1,0 +1,21 @@
+Training 1:
+vector_size=300
+window_size=5
+all other parameters default
+
+Training 2:
+vector_size=300
+window_size=3
+all other parameters default
+
+Training 3:
+vector_size=300
+window_size=10
+all other parameters default
+
+
+ns (negative sampling) always true
+negative: Number of negative words to sample, for ns (Default 5)
+
+min_n: min length of char ngrams (Default 3)
+max_n: max length of char ngrams (Default 6)
