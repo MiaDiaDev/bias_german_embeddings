@@ -142,4 +142,4 @@ clean_data/*
 
 # Models
 trained_models/*
-gensim3.7_models/*
+gensim4.0.1_ft_models/*
