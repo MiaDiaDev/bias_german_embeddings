@@ -6,4 +6,5 @@ Implementation of WEAT (Caliskan et al. 2017) with translated gender bias catego
 
 ## Setup
 
-Apart from the packages listed in requirements.txt please also pip install responsibly
+Requires Python 3.8
+Apart from the packages listed in requirements.txt please also `pip install responsibly`
